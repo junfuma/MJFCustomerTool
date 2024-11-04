@@ -1,0 +1,16 @@
+PODS:
+  - MJFCustomerTool (0.1.0)
+
+DEPENDENCIES:
+  - MJFCustomerTool (from `../`)
+
+EXTERNAL SOURCES:
+  MJFCustomerTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJFCustomerTool: b1f786743f7c59383c80d2809d10b7a6d68a32a8
+
+PODFILE CHECKSUM: 13adc7b11c31b659dba47957a0d07f0723b1af4b
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,6 @@
+framework module MJFCustomerTool {
+  umbrella header "MJFCustomerTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_MJFCustomerTool_Tests {
+  umbrella header "Pods-MJFCustomerTool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
