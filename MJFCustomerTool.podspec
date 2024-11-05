@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MJFCustomerTool'
-  s.version          = '0.1.0'
+  s.version          = '0.1.0.beta'
   s.summary          = 'A short description of MJFCustomerTool.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/majunfu/MJFCustomerTool'
+  s.homepage         = 'https://github.com/junfuma/MJFCustomerTool'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'majunfu' => 'majunfu_coder@sina.cn' }
-  s.source           = { :git => 'https://github.com/majunfu/MJFCustomerTool.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:junfuma/MJFCustomerTool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'

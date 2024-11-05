@@ -11,4 +11,8 @@
 + (void)printLog {
     
 }
+
++ (void)test1 {
+    
+}
 @end
